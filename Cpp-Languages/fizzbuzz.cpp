@@ -16,10 +16,10 @@ void fizzbuzz()
 }
 int main()
 {
-    cout<<"------------------------------------"<<endl;
-    cout<<"Fizz Buzz Program in c++"<<endl;
-    cout<<"Coded by Jackson Konjengbam"<<endl;
-    cout<<"------------------------------------"<<endl;
+    cout<<"------------------------------------\n";
+    cout<<"Fizz Buzz Program in c++\n";
+    cout<<"Coded by Jackson Konjengbam\n";
+    cout<<"------------------------------------\n";
     fizzbuzz();
     return 0;
 }
