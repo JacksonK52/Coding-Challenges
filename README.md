@@ -9,4 +9,4 @@ I am trying to solve the challenge in multiple programming languages and scripti
 - Python
 
 ## How to run code
-Each challenges contain a markdown file, where an information about what the challenge is about, how I solve the problem and how the code can be run are mentioned.
+Each challenges contain a DOC.md file, where an information about what the challenge is about, how I solve the problem and how the code can be run are mentioned.
