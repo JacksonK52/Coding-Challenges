@@ -18,8 +18,8 @@ void linear()
     {
         if(a[i] == sum)
         {
-            cout<< "Sum is found" << endl;
-            cout<< "Position: "<< i + 1<< endl<<endl;
+            cout<< "You have enter" << sum << endl;
+            cout<< "Position: "<< i + 1 << endl<<endl;
             found = true;
             break;
         }
